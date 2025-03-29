@@ -1,0 +1,11 @@
+PERSONAL DETAILS 
+Name          :K Sriga
+Date of birth :29/08/2006
+Gender        :Female
+
+
+
+Education
+
+Department    :BCA
+Univercity    :Brathidasan University
